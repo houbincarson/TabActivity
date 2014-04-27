@@ -1,0 +1,6 @@
+GuangDongGold.Activity1;guangdonggold.Activity1
+GuangDongGold.Activity2;guangdonggold.Activity2
+GuangDongGold.Activity3;guangdonggold.Activity3
+GuangDongGold.Activity4;guangdonggold.Activity4
+GuangDongGold.Activity5;guangdonggold.Activity5
+GuangDongGold.HomeActivity;guangdonggold.HomeActivity

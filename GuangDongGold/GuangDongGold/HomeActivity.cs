@@ -21,8 +21,8 @@ namespace GuangDongGold
 
         private void Initialize()
         {
-            TabHost.TabSpec spec;     // Resusable TabSpec for each tab     
-            Intent intent;            // Reusable Intent for each tab  
+            TabHost.TabSpec spec;     
+            Intent intent;            // 嘻嘻嘻嘻嘻嘻
 
             View TabIcon1 = (View)LayoutInflater.From(this).Inflate(Resource.Layout.TabIcon1, null);
             View TabIcon2 = (View)LayoutInflater.From(this).Inflate(Resource.Layout.TabIcon2, null);
